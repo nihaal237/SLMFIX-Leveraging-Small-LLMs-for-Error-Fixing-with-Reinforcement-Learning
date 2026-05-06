@@ -82,7 +82,7 @@ pip install torch transformers trl peft sqlglot bashlex
 ### Running in Google Colab
 1. Mount your Google Drive
 2. Place datasets under `SLMFix_Project/` as structured above
-3. Open `F26-09.ipynb` and run cells sequentially
+3. Open `SLMFixProject.ipynb` and run cells sequentially
 
 ## Models
 
